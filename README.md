@@ -1,5 +1,9 @@
 # E-commerce-Data-Analysis-and-Visualization-Project
 This project delves into the analysis and visualization of e-commerce data from a Brazilian company, Olist. The data spans various aspects of the e-commerce ecosystem, including customer behavior, product categories, sales, marketing funnel, and more. The aim is to extract meaningful insights to aid business decision-making processes.
+The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil and can be downloaded from the following url:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+In addition to this dataset, Olist has released a marketing funnel dataset as information of 8k Marketing Qualified Leads (MQLs) that requested contact between Jun. 1st 2017 and Jun 1st 2018 and can be downloaded from the following URL:
+https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
 
 Key Outcomes:
 
